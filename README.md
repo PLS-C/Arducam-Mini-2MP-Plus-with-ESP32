@@ -43,6 +43,7 @@ Install the following libraries via the Arduino Library Manager or manually:
 - `SPI`
 
 🔗 Official repo: [https://github.com/ArduCAM/Arduino](https://github.com/ArduCAM/Arduino)
+🔗 Arducam Mini 2MP Plus: [https://www.arducam.com/arducam-2mp-spi-camera-b0067-arduino.html](https://www.arducam.com/arducam-2mp-spi-camera-b0067-arduino.html)
 
 ---
 
