@@ -73,7 +73,8 @@ Install the following libraries via the Arduino Library Manager or manually:
 
 ---
 
-##📝 5. Modify memorysaver.h According to Your Hardware
+## 📝 5. Modify memorysaver.h According to Your Hardware
+
 Edit the memorysaver.h file to enable the correct camera module. For the Arducam Mini 2MP Plus, make sure only the following line is uncommented:
 
 ```cpp
@@ -92,6 +93,8 @@ Edit the memorysaver.h file to enable the correct camera module. For the Arducam
 //#define OV5642_MINI_5MP_PLUS
 //#define OV5640_MINI_5MP_PLUS
 ```
+---
+
 ## 🧪 6. Upload and Test Example Code
 
 ```cpp
