@@ -1,1 +1,1 @@
-# Esp32-with-arducam
+# Arducam Mini 2MP Plus with ESP32
