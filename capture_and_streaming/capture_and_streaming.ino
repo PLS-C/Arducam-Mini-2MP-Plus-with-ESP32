@@ -14,8 +14,8 @@
 #define CS 5  // Example CS pin (GPIO5), update if using a different one
 
 // WiFi config
-const char *ssid = "PLS_wifi";
-const char *password = "55378826";
+const char *ssid = "your_wifi";
+const char *password = "your_password";
 
 WebServer server(80);
 ArduCAM myCAM(OV2640, CS);
